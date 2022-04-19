@@ -5,7 +5,7 @@
     "public": "填入公钥"
   },
   "send": {
-    "type": "server_chan bark(Beta)",
+    "type": "server_chan",
     "key": "SCT140512TbipwfuIEHIeyxXGgesQFaMx4",
     "mode": "默认fail(fail/success/both)"
   },
